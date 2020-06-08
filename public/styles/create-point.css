@@ -21,11 +21,14 @@
 }
 
 #page-create-point header a span {
-    margin-right: 16px;
-    background-image: url('../assets/arrow-left.svg');
+    background-image: url('../icones/arrow-left.svg');
+
     width: 20px;
-    height: 24px;
+    height: 23px;
+
     display: flex;
+
+    margin-right: 16px;
 }
 
 form {
